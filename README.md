@@ -110,11 +110,15 @@ The system follows relational integrity using foreign keys to maintain data cons
 Default Demo Credentials
 Role	        Email	                    Password
 
-Admin	        admin@example.com           123456
+Manager	        talkimkuula@gmail.com       talkimkuula
 
-Technician	    staff@example.com           123456
+Technician	    annajohn@gmail.com          annajohn
 
-Customer	    customer@example.com        123456
+Technician      juma@gmail.com              juma
+
+Customer	    allyally@gmail.com          allyally
+
+Customer	    hamisabdallah@gmail.com     hamisabdallah
 
 
 
