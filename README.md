@@ -127,4 +127,4 @@ Customer	    hamisabdallah@gmail.com     hamisabdallah
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Tfire12/vsms.git
+git clone https://github.com/Tfire12/vsms
