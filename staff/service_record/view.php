@@ -11,9 +11,9 @@ require_once "../../includes/header.php";
 
         <div class="col-md-10 p-4">
             <h4>My Service Records</h4>
-            <a href="add.php" class="btn btn-primary mb-3">
+            <!--a href="add.php" class="btn btn-primary mb-3">
                 <i class="bi bi-plus-circle"></i> Add Service Record
-            </a>
+            </a -->
 
             <table class="table table-bordered table-striped">
                 <thead class="table-dark">
